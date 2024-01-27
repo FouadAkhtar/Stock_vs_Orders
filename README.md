@@ -14,8 +14,8 @@ R and loops were employed to process each shop's data, generating over 100 uniqu
 ## Automated Report Generation:
 Personalized PDF reports were created for each shop, incorporating details such as shop name, manager names, title, contact details, emails, and mobile numbers. The reports were stored in a designated folder, and their paths were converted using loops for direct referencing.
 
-## Quarto Document Creation:
-A quarto document was utilized to compile a detailed analysis report. Information from the Excel sheet, including shop names, manager names, and contact details, was dynamically retrieved. The document included a full description of the analysis, statistical measures, and insights gained.
+## R Markdown Document Creation:
+A markdown document was utilized to compile a detailed analysis report. Information from the Excel sheet, including shop names, manager names, and contact details, was dynamically retrieved. The document included a full description of the analysis, statistical measures, and insights gained.
 
 ## Communication Channels:
 
