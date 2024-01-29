@@ -58,5 +58,5 @@ This project showcases the integration of data analysis, visualization, and auto
 
 ## Appendix:
 
-[Stock Update vs Order Report (Updated).pdf](https://github.com/FouadAkhtar/OrdersVsInventory/files/13998705/Stock.Update.vs.Order.Report.Updated.pdf)
+[Stock Update vs Order Report (Updated).pdf](https://github.com/FouadAkhtar/OrdersVsInventory/files/13998705/inventoryStock.Update.vs.Order.Report.Updated.pdf)
 
