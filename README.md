@@ -1,15 +1,15 @@
-# OrdersVsInventory
+# Stock Vs Orders
 
-# Project Documentation: Analyzing Monthly Sales and Inventory Updates for Multiple Shops
+# Project Documentation: Analyzing Monthly Sales and Stock Updates for Multiple Shops
 
 ## Introduction:
-This project involved a comprehensive analysis of monthly sales data for numerous shops, focusing on the relationship between stock inventory updates and the number of orders. The objective was to provide actionable insights to shop managers, utilizing a combination of data processing, visualization, and automated reporting.
+This project involved a comprehensive analysis of monthly sales data for numerous shops, focusing on the relationship between stock Stock updates and the number of orders. The objective was to provide actionable insights to shop managers, utilizing a combination of data processing, visualization, and automated reporting.
 
 ## Data Collection and Preparation:
 Data was sourced from multiple APIs, each representing different tables. The data was combined using join methods, cleaned for quality, and underwent transformations to ensure compatibility for analysis.
 
 ## Data Processing:
-R and loops were employed to process each shop's data, generating over 100 unique ggplots that showcased sales and inventory trends.
+R and loops were employed to process each shop's data, generating over 100 unique ggplots that showcased sales and Stock trends.
 
 ## Automated Report Generation:
 Personalized PDF reports were created for each shop, incorporating details such as shop name, manager names, title, contact details, emails, and mobile numbers. The reports were stored in a designated folder, and their paths were converted using loops for direct referencing.
